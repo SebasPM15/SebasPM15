@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SebasPM15 pero pueden llamarme Mateo o Sebas 
-- 👀 I’m interested in ... aprender programación y 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... aplicaciones web y todo lo que tenga que ver con programación (incluso POO) 
+- 🌱 I’m currently learning ... full SW
 - 📫 How to reach me ... @mateo_pilco en Instagram
 
 <!---
