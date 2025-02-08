@@ -1,105 +1,103 @@
-<h1 align="center">Hi , I'm Mateo Pilco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Mateo Pilco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@mateo_pilco;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
-
-
-<br>
-
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am a `Junior` at [Faculty of Systems Engineering](https://fis.epn.edu.ec/index.php/es/) at [EPN](https://www.epn.edu.ec).
-- :trophy: I love the videogames.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-<br>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:sebasdelpm@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/SebasPM15"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mateo-pilco-1703611a9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/mateo_pilco/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software+en+formación;Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+aprendizaje+continuo">
   </a>
-  &emsp;
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+<br>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+
+- 🎓 Estudiante de Ingeniería en Software en la [Escuela Politécnica Nacional](https://www.epn.edu.ec).
+- 💻 Apasionado por el desarrollo de software como solución a diversos problemas.
+- 🌱 Actualmente profundizando en frameworks como **Laravel** y **React**.
+- 📱 Desarrollador Full Stack con experiencia en **Flutter, Node.js y MySQL**.
+- 🎮 Amante de los videojuegos y la tecnología.
+- 📚 Siempre en busca de aprender cosas nuevas y enfrentar desafíos.
+
+<br>
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Conecta conmigo
+
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+  <a href="mailto:sebasdelpm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/SebasPM15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/mateo-pilco-1703611a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/mateo_pilco/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+<br>
+
+## 🛠️ Mis Habilidades
+
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> Lenguajes de Programación
+
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart">
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
+### 💻 **Desarrollo Frontend**
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<br> 
+### 🔧 **Desarrollo Backend**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask">
+</p>
+
+---
+
+## 📂 **Proyectos Destacados**
+
+### 📌 [App-Lista-Tareas](https://github.com/SebasPM15/App-Lista-Tareas)
+📱 Aplicación móvil en **Flutter y Dart** para la gestión de tareas diarias con almacenamiento local en **SQLite**. Incluye funcionalidades de CRUD y notificaciones.
+
+### 📌 [API REST con Flask](https://github.com/SebasPM15/Flask-API)
+⚙️ Desarrollo de una **API RESTful en Python con Flask**, utilizando **entornos virtuales** y conexión con **MySQL** para gestionar datos de manera eficiente.
+
+### 📌 [Portafolio Web con Next.js](https://github.com/SebasPM15/Portfolio)
+🖥️ Portafolio profesional creado con **Next.js, Tailwind CSS y Framer Motion** para demostrar proyectos y habilidades.
+
+---
+
+## 📊 **Estadísticas de GitHub**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasPM15&theme=tokyonight" alt="GitHub Streak Stats">
+</p>
+
+---
+
+## 🚀 **Mis Objetivos**
+- 🌎 Seguir mejorando mis habilidades como **desarrollador Full Stack**.
+- 🤝 Conectar con profesionales del área y colaborar en proyectos open-source.
+- 📖 Aprender más sobre **arquitectura de software y DevOps**.
+
+---
+
+📌 **¡Gracias por visitar mi perfil!**  
+Si te interesa colaborar en algún proyecto, no dudes en contactarme.  
+
+📧 **Correo:** [mateo.pilco.dev@gmail.com](mailto:mateo.pilco.dev@gmail.com)  
+📞 **Teléfono:** (+593) 0995291560  
+
+---
