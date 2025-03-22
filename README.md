@@ -85,6 +85,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasPM15&theme=tokyonight" alt="GitHub Streak Stats">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasPM15&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+</p>
 ---
 
 ## 🚀 **Mis Objetivos**
