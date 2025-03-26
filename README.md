@@ -1,29 +1,30 @@
-<h1 align="center">Hola, soy Mateo Pilco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# ✨ Hola, soy Mateo Pilco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software+en+formación;Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+aprendizaje+continuo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software;Desarrollador+Full+Stack;Experiencia+en:;.NET%2C+Angular%2C+Next.js+y+Spring+Boot">
   </a>
 </p>
 
-<br>
+---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí  
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-- 🎓 Estudiante de Ingeniería en Software en la [Escuela Politécnica Nacional](https://www.epn.edu.ec).
-- 💻 Apasionado por el desarrollo de software como solución a diversos problemas.
-- 🌱 Actualmente profundizando en frameworks como **Laravel** y **React**.
-- 📱 Desarrollador Full Stack con experiencia en **Flutter, Node.js y MySQL**.
-- 🎮 Amante de los videojuegos y la tecnología.
-- 📚 Siempre en busca de aprender cosas nuevas y enfrentar desafíos.
+- 🎓 **Ingeniero de Software en formación** en la [Escuela Politécnica Nacional](https://www.epn.edu.ec).  
+- 💻 **Desarrollador Full Stack** con experiencia en **.NET, Angular, Spring Boot, Next.js y Flutter**.  
+- 📱 Apasionado por construir **aplicaciones escalables y optimizadas**.  
+- 📚 Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.  
+- 🎮 Gamer en mi tiempo libre.
+- ⚽ Apasionado por el deporte y amante del fútbol. 
 
-<br>
+---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Conecta conmigo
+## 🌎 Conéctate conmigo  
 
 <p align="center">
-  <a href="mailto:sebasdelpm@gmail.com">
+  <a href="mailto:mateo.pilco.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/SebasPM15">
@@ -37,70 +38,76 @@
   </a>
 </p>
 
-<br>
+---
 
-## 🛠️ Mis Habilidades
+## 🛠️ Habilidades Técnicas  
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> Lenguajes de Programación
-
+### **Lenguajes de Programación**  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-### 💻 **Desarrollo Frontend**
+### **Desarrollo Frontend**  
 <p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-### 🔧 **Desarrollo Backend**
+### **Desarrollo Backend**  
 <p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask">
+</p>
+
+### **Bases de Datos y DevOps**  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
 
-## 📂 **Proyectos Destacados**
+## 🚀 Proyectos Destacados  
 
-### 📌 [App-Lista-Tareas](https://github.com/SebasPM15/App-Lista-Tareas)
-📱 Aplicación móvil en **Flutter y Dart** para la gestión de tareas diarias con almacenamiento local en **SQLite**. Incluye funcionalidades de CRUD y notificaciones.
+### 📌 [Portafolio Web con Next.js](https://github.com/SebasPM15/Portafolio-NextJS)  
+🖥️ Mi portafolio personal desarrollado con **Next.js, Tailwind CSS y Framer Motion**, optimizado para una experiencia interactiva y atractiva.  
 
-### 📌 [API REST con Flask](https://github.com/SebasPM15/Flask-API)
-⚙️ Desarrollo de una **API RESTful en Python con Flask**, utilizando **entornos virtuales** y conexión con **MySQL** para gestionar datos de manera eficiente.
+### 📌 [Aplicación Bancaria para Pasantía](https://github.com/MateoPm15/banco-app-pasantia)  
+🏦 Aplicación bancaria desarrollada con **.NET 9.0 y Angular 17**, con autenticación JWT, Swagger y SQL Server en Docker.  
 
-### 📌 [Portafolio Web con Next.js](https://github.com/SebasPM15/Portfolio)
-🖥️ Portafolio profesional creado con **Next.js, Tailwind CSS y Framer Motion** para demostrar proyectos y habilidades.
+### 📌 [App de Lista de Tareas](https://github.com/SebasPM15/App-Lista-Tareas)  
+✅ Aplicación móvil en **Flutter y Dart** con almacenamiento local en **SQLite**, permitiendo la gestión de tareas diarias.  
 
 ---
 
-## 📊 **Estadísticas de GitHub**
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasPM15&theme=tokyonight" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasPM15&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasPM15&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
 </p>
----
-
-## 🚀 **Mis Objetivos**
-- 🌎 Seguir mejorando mis habilidades como **desarrollador Full Stack**.
-- 🤝 Conectar con profesionales del área y colaborar en proyectos open-source.
-- 📖 Aprender más sobre **arquitectura de software y DevOps**.
 
 ---
+
+## 🎯 Mis Objetivos  
+- 🌍 Seguir creciendo como **desarrollador Full Stack** y explorar nuevas tecnologías.  
+- 🤝 Colaborar en proyectos open-source y contribuir a la comunidad tech.  
+- ☁️ Profundizar en **arquitectura de software, DevOps y cloud computing**.  
 
 📌 **¡Gracias por visitar mi perfil!**  
 Si te interesa colaborar en algún proyecto, no dudes en contactarme.  
 
 📧 **Correo:** [mateo.pilco.dev@gmail.com](mailto:mateo.pilco.dev@gmail.com)  
 📞 **Teléfono:** (+593) 0995291560  
-
----
